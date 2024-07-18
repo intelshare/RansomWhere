@@ -11,7 +11,7 @@ Tables:
 |   |   |   |
 Ransomware LeakSites SS | https://ecrime.ch/screenshots/
 Ransomware Map | https://github.com/cert-orangecyberdefense/ransomware_map/blob/main/OCD_WorldWatch_Ransomware-ecosystem-map.pdf
-Ransomware Tracker| https://privtools.github.io/ransomposts/ |https://github.com/JMousqueton/ransomware.live | https://github.com/joshhighet/ransomwatch
+Ransomware Tracker| https://privtools.github.io/ransomposts/ | https://github.com/JMousqueton/ransomware.live, https://github.com/joshhighet/ransomwatch
 Ransomware yara rules | https://github.com/rivitna/Malware
 Stylometric analysis for ransomware attribution | https://medium.com/@callyso0414/tracing-ransomware-threat-actors-through-stylometric-analysis-and-chat-log-examination-23f0f84abba8
 Ransomware Database | https://www.ransom-db.com/
