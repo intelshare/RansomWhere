@@ -6,7 +6,7 @@ This repository serves as a compilation of various links shared by a highly rega
 
 Tables:
 
-|Forums|Link||
+|Details|Link||
 |---|---|---|
 |   |   |   |
 Ransomware LeakSites SS | https://ecrime.ch/screenshots/
