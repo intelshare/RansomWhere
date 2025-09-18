@@ -23,3 +23,17 @@ Ransomware Groups And Twitter Handles | No Bro get a life search by your own
 White Phoenix" to recover content from files encrypted with intermittent encryption | https://github.com/cyberark/White-Phoenix
 Ransomware gang websites onion link | http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/
 Ransomware Tools Matrix | https://github.com/BushidoUK/Ransomware-Tool-Matrix/
+
+
+
+
+
+
+## ⚠️ Disclaimer
+
+> These links is provided **exclusively for educational and ethical research purposes.**
+
+>
+> The author takes **no responsibility** for misuse or damages. By using this forums, you agree to use it **legally and ethically**, in full compliance with local and international laws.
+
+---
